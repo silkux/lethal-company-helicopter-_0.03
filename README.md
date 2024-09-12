@@ -1,4 +1,4 @@
-# Lethal Company Mod Template
+An asset imported in the game, apparently. # Lethal Company Mod Template
 
 Thank you for using the mod template! Here are a few tips to help you on your journey:
 
